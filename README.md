@@ -1,7 +1,7 @@
 # Welcome to Human activity recognition project
 The project aims at developing deep learning model (convolutional neural network) to effectively learn accelerometry dataset collected using smartphones for human activity prediction purposes. This work opens up an opportunity to be used in wearables devices and to track daily activity for patients with mobility issues such as people with Parkinson's disease, ALS and PAH. 
 
-Code below are modified from a tutorial and use public dataset to train and test the model's performance.
+The Main code in this repository is modified from a tutorial and use public datasets to train and test the model's performance.
 
 A link to tutorial page: https://towardsdatascience.com/human-activity-recognition-har-tutorial-with-keras-and-core-ml-part-1-8c05e365dfa0
 
