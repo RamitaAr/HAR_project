@@ -1,4 +1,4 @@
-# Welcome to Human activity recognition project
+# Welcome to a deep learning project implementation for Human activity recognition (HAR) using data from smartphones 
 The project aims at developing deep learning model (convolutional neural network) to effectively learn accelerometry dataset collected using smartphones for human activity prediction purposes. This work opens up an opportunity to be used in wearables devices and to track daily activity for patients with mobility issues such as people with Parkinson's disease, ALS and PAH. 
 
 The Main code in this repository is modified from a tutorial and use public datasets to train and test the model's performance.
