@@ -1,5 +1,5 @@
 # Welcome to Human activity recognition project
-The project aims at using deep learning model (convolutional neural network) to effectively learn accelerometry dataset collected using smartphones for human activity prediction purposes. This work opens up an opportunity to be used in wearables devices and to track daily activity for patients with mobility issues such as people with Parkinson's disease, ALS and PAH. 
+The project aims at developing deep learning model (convolutional neural network) to effectively learn accelerometry dataset collected using smartphones for human activity prediction purposes. This work opens up an opportunity to be used in wearables devices and to track daily activity for patients with mobility issues such as people with Parkinson's disease, ALS and PAH. 
 
 Code below are modified from a tutorial and use public dataset to train and test the model's performance.
 
@@ -20,5 +20,5 @@ This can be done by running the following file: UCI_pre-processing.ipynb in ‘D
 
 Next, run the following file ‘data remodel (WISDM + UCI).ipynb’  to extract only laying data from UCI and combine with  WISDM dataset. 
 
-# Main Code - Data cleaning, tran and test the CNN model
+# Main Code - Data cleaning, train and test the CNN model
 Lastly, run the main code “CNN_allact_updated.ipynb” to train and test the model's performance. Note that all the data cleaning and normalizing process are in the main code.
