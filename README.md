@@ -22,3 +22,6 @@ Next, run the following file ‘data remodel (WISDM + UCI).ipynb’  to extract 
 
 # Main Code - Data cleaning, train and test the CNN model
 Lastly, run the main code “CNN_allact_updated.ipynb” to train and test the model's performance. Note that all the data cleaning and normalizing process are in the main code.
+
+# Data Augmentation
+Apply data augmentation technique to improve model's performance. 
