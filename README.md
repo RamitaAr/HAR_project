@@ -24,4 +24,5 @@ Next, run the following file ‘data remodel (WISDM + UCI).ipynb’  to extract 
 Lastly, run the main code “CNN_allact_updated.ipynb” to train and test the model's performance. Note that all the data cleaning and normalizing process are in the main code.
 
 # Data Augmentation
-Apply data augmentation technique to improve model's performance. 
+Data augmentation techniques are used to increase number of data points, add variety, and noises to the dataset during training. It results in a more universal model which can be used in different device profiles.
+Rotation, Permutation, and Time Wraping are used as augmentation techniques. 
